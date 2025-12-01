@@ -77,7 +77,7 @@ Trademark infringement Threshold - Use
 - For trademark protection, and owner must use a mark in commerce
 
 Trademark infringement - Likelihood of confusion
-- AMF v. Sleekcraft (THE EIGHT FACTORS, will likely have to apply these factors on exam)
+- AMF v. Sleekcraft (THE EIGHT FACTORS, will likely have to apply these factors on exam) no supreme court decision on htis, but the sleekcraft case is an example.
 	- the strength of the mark
 	- proximity of goods
 	- similarity of marks
@@ -97,4 +97,110 @@ Trademark dilution (need to understand tthis)
 Anticybersquatter consumer protection act
 - A bad faith intent to profit from a mark - by registering trafficing in or using a domain name that is identical or confusingly similar to distinctive mark or identical or confusingly similar to or dilutive of famous mark
 	- Theses are in rem actions (court has authority over the domain name itself)
+
+Defenses to Trademark Infringement:
+- Genericness - Elliot v. Google case
+- Functionality - TrafFix Devices case
+- Abandonment
+- Fair Use
+- Non-Trademark Use
+
+Trademark Abandonment - mark looses its significance 
+America invents Act:
+- Changes in US patent law to definition of prior art
+- US patent law went from first to invent, to first to file system, which put the us more in line for the rest of the world
+- Some patents still exist from before america events, so it still matters to understand how the law used to be.
+
+5 basic requirements for Patentability: (likely to ask about all of these)
+- Patentable Subject matter (what constitutes it?)
+- Utility
+- Novelty
+- Non-obviousness (look to "ordinary skill in the art")
+- Disclosure (enablement, written description)
+
+Novelty before and after America Invents Act
+- Novelty USED to be determined based on the date of the invention
+- Under the new law, novelty is based on the filing date. Applies to patents and patent applications on or after March 16, 2013
+
+Graham v. John Deere
+- Know the factors for this case
+- Scope and content of the prior art
+- differences between the prior art and the claims at issue
+- The level of ordinary skill in the art
+- Secondary considerations of non-obviousness (commercial success, long-term need, failure of others, unexpected results)
+- The first three factors may go against you, but the secondary considerations may give valid reasons to your case.
+
+Likely to give us an example or scenario where we have to analyze obviousness
+
+Utility Requirement:
+- You have to assert some usefullness for the invention. It needs to have a practical use.
+
+Disclosure Requirement:
+- Why is there a disclosure requirement?
+- When a patent is issued, the owner has a right to exclude others for term of patent
+- But when patent term is over, the invention is in the public domain
+- Therefore, in exchange for exclusive right, inventor must describe to the public how to make and use the invention
+Disclosure Requirements:
+- Written description (Is the inventor in possession at the time of the application?)
+- Enablemnent (can one of ordinary skill make and use the invention? This must be adequately be explained)
+- Best Mode (inventor not permitted to maintain trade secret on best way of performing invention, no longer a defense to patent infringement)
+Amgen V. Sanofi Case:
+- The antibodies case
+
+Patentable Subject Matter:
+- any new and useful process, machine, manufacture, or composition of matter, or any new and useful improvement therof
+
+Old Patent Law (Novelty):
+- You can not get a patent if it is known or used in the US or published anywhere before invention
+- Public use or sale in the US or published anywhere more than one year before application filed (experimental use exception)
+- First to invent system
+New Patent Law (Novelty):
+- No if known, used or published anywhere before the filing date
+- Grace period remains for disclosures by inventor or someone who recieved information directly or indirectly from inventor not more than one year before filing
+- Derivation proceedings replace interferences
+
+Old Patent Law (Nonobviousness):
+- Not patentable if subject matter as a whole would have been obvious at the time the invention was made to a person having ordinary skill in the art
+New Patent Law (Nonobviousness):
+- Not patentable if claimed invention as a whole would have been obvious before the effective filing date of the claimed invention to a person having ordinary skill in the art
+
+Graham Vs John Deere (know the factors in this case)
+
+AI is not capable of inventorship
+
+Claim Construction:
+- Knowing what claim terms mean is a critical part of patent disputes
+
+Indefiniteness - can you reasonable assertain the meaning of the claim? Need to know what indefiniteness is in claims
+
+Infringement
+- litoral infringement
+- Infringement under the doctrine of equivalence
+
+Indirect infringement
+- Contributory Infringement
+- Inducing Infringement
+
+Infringement Defenses:
+- Non-infringement
+- Invalidity
+- With Authority
+- Unenforceability
+
+Patent Exhaustion - Under principle of exhaustion, first unrestricted sale of patented product exhausts patentee's control
+- Resale cannot be controlled by patentee
+- Repair generally cannot be controlled by patentee
+
+Other notes:
+- 40-60% of test is short answer, remaining is essay question
+- Essay question on trademark and patents
+- Maybe essay on where is the internet and trade secrets.
+- Issues of novelty and obviousness will have longer question
+- Likelyhood of confusion factors
+- Whether a mark is descriptive
+
+
+
+
+
 
